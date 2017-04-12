@@ -1,3 +1,131 @@
 /****************************
- ====== Votre super CSS =====
+ ====== GÉNÉRAL =====
  ****************************/
+
+ body{
+     color: #F0F8FF;
+     font-size:0px;
+     background-color: #FFFFFF;
+ }
+
+ .bg1{
+     background-color: #ffffff;
+ }
+ .bg2{
+     background-color: #ffffff;
+ }
+
+ .pd{
+     padding: 5px;
+ }
+ .round{
+     border-radius: 10px;
+ }
+ /*************************
+          header
+  ************************/
+  #contact {
+    text-align: right;
+    margin-right: 70px;
+    }
+
+    .photo2 {
+      text-align: left;
+      margin-left: 5px;
+
+      margin: 0px;
+      width:100px;
+      line-height: 0vh;
+      }
+
+      .image1.jpg {
+width:10px;
+height:100px;
+}
+
+ {
+width:100px;
+height:100px;
+}
+      }
+
+      #photo2 {
+        text-align: left;
+        margin-right: 20px;
+        }
+
+        #photo3 {
+          text-align: right;
+          margin-right: 20px;
+          }
+
+          #photo4 {
+            text-align: left;
+            margin-right: 20px;
+            width:100px;
+            height:100px;
+            }
+
+
+      .logo {
+        text-align: left;
+        margin-left: 5px;
+
+        margin: 0px;
+        width:100px;
+        line-height: 0vh;
+        }
+
+        .images_photo1 {
+width:100px;
+height:100px;
+}
+
+  header{
+      height: calc(60vh - 0px);
+  }
+  header p{
+      line-height: 50vh;
+      height: 50vh;
+      margin: 50px;
+      line-height: 50vh;
+  }
+
+
+
+
+   /*************************
+           SECTION
+    ************************/
+
+       .pannel{
+           width: calc(100% - 10px);
+           height: 100vh;
+           position: relative;
+           display: inline-block;
+           vertical-align: middle;
+       }
+
+   article{
+       height: 80vh;
+       margin: 20px;
+   }
+
+
+   /*************************
+           FOOTER
+    ************************/
+
+   footer{
+       height: 8vh;
+   }
+   footer p{
+       line-height: 70vh;
+   }
+
+
+
+  .h1 {
+    color: black;
+    background-color: black;
+  }

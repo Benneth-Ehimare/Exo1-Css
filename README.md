@@ -1,5 +1,3 @@
 # exo1-css
 
-- Coder la structure html et le Css
-  en s'inspirant de la maquette
-  fournit dans le dossier "img".
+file:///Users/utilisateur/Desktop/mywebsite/Exo1-Css/index.html
